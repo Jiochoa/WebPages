@@ -1,0 +1,17 @@
+#toggle-sidebar {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    #toggle-sidebar {
+        display: block;
+        background-color: #E0D6E9;
+        text-align: center;
+        padding: 0.6em;
+        margin-bottom: 0.6em;
+    }
+    #toggle-sidebar h2 {
+        margin: 0;
+        padding: 0;
+    }
+}
