@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-08-30.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-08-30.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-08-30.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-08-30.md"
+                "file": "README.md"
               }
             }
           },
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "112d519968d7c516",
+  "active": "9c0c82cc81fc59ed",
   "lastOpenFiles": [
+    "daily/2022-08-30.md",
     "2022-08-30.md"
   ]
 }
